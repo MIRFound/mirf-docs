@@ -1,0 +1,39 @@
+{
+  "name": "MIRF Documentation",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#0F172A",
+    "light": "#F8FAFC",
+    "dark": "#0F172A",
+    "anchors": {
+      "from": "#0F172A",
+      "to": "#3B82F6"
+    }
+  },
+  "topbarCtaButton": {
+    "type": "github",
+    "url": "https://github.com/MIRFound/mirf-docs"
+  },
+  "anchors": [
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/MIRFound/mirf-docs"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Governance",
+      "pages": [
+        "01-governance/constitution"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "github": "https://github.com/MIRFound"
+  }
+}
